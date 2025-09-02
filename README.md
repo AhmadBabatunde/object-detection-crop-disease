@@ -10,15 +10,10 @@
 
 ## 🎥 Demo Video
 
-<video width="640" height="480" controls>
-  <source src="Crop-disease-identification.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[📹 Watch Demo Video: Crop Disease Identification](./Crop-disease-identification.mp4)
 
+> Click the link above to download and view the demonstration video showing the plant disease detection system in action.
 
-## 📝 License
-
-[Add your license information here]
 
 
 ## 🙏 Acknowledgments
